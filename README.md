@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App]
 
-Demo: https://rebrand.ly/todo9
+Demo: prasanna9.netlify.app
 
 ## Available Scripts
 
