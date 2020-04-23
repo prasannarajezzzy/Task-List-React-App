@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App]
 
-Demo: rebrand.ly/todo9
+Demo: https://rebrand.ly/todo9
 
 ## Available Scripts
 
